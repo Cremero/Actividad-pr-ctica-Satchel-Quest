@@ -1,5 +1,5 @@
 # Actividad-práctica-Satchel-Quest
-- Página 2 - Game overview --> Javier García Conde
+- Página 2 - Game overview --> Javier Garcia Conde
 - Página 3 - Components --> Javier Serrano
 - Página 4 - Setup --> Lucas Martin 
 - Página 5 - WhAt's spEciAl ABout my hEro? --> Jorge Aguado
