@@ -1,0 +1,10 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Actividad Practica
+  structure:
+    - type: space
+      key: docs-en
+      title: English
+      path: docs
+      content:
+        directory: ./
