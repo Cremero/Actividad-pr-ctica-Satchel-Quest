@@ -9,5 +9,6 @@
 - Página 9 - Dungeon play --> Christian Kohler
 - Página 10 - Chests --> Dicac Ucero
 - Página 15 - Camp, Path... --> Jesús Rodriguez
+- Página 16 - Actions --> Jorge Bidal
 - Página 17 - Village Turn Example --> Antonio Fernández
 - Página 18 - Glossary, Path, and Skill Clarifications --> Tomás Kos
