@@ -5,6 +5,7 @@
 - Página 5 - WhAt's spEciAl ABout my hEro? --> Jorge Aguado
 - Página 6 - Phase 1: DUNGEON --> Miguel Pereira
 - Página 7 - STEP 2: PLAY YOUR DUNGEON --> Adrián Martínez
+- Página 8 - Skills and Tools --> Andy Tutistar
 - Página 9 - Dungeon play --> Christian Kohler
 - Página 10 - Chests --> Dicac Ucero
 - Página 17 - Village Turn Example --> Antonio Fernández
